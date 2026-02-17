@@ -18,9 +18,5 @@ class Developer:
 me = Developer()
 me.GetInTouch(**dict(linkedin='linkedin.com/in/fabioo29'))
 ```
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fabioo29&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fabioo29&show_icons=true&theme=dark" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioo29&theme=dark" width="45%" >
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Fabioo29&style=flat-square&color=blue" alt="Profile Views" align="center" />
-</p>
